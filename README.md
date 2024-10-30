@@ -1,6 +1,6 @@
 # Hi there, I’m Saahil Mahato! 👋
 
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=SaahilMahato.visitor-badge" alt="Visitor Badge">
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=codesaahil.visitor-badge" alt="Visitor Badge">
 
 Welcome to my GitHub! I'm a passionate coder, a tech enthusiast, and always eager to build and break things to learn more. Here’s a little about me:
 
