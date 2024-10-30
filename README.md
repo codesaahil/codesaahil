@@ -25,8 +25,8 @@ Welcome to my GitHub! I'm a passionate coder, a tech enthusiast, and always eage
 ### 📊 GitHub Stats
 
 <a href="https://github.com/SaahilMahato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaahilMahato&show_icons=true&hide_border=true&theme=react&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaahilMahato&layout=compact&langs_count=8&theme=react" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codesaahil&show_icons=true&hide_border=true&theme=react&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesaahil&layout=compact&langs_count=8&theme=react" />
 </a>
 
 ---
