@@ -40,7 +40,7 @@ Welcome to my GitHub! I'm a passionate coder, a tech enthusiast, and always eage
 ### 🧩 Fun Facts
 
 - 🖥️ I love automating things and making life easier!
-- 📚 Fun fact: I’m a huge fan of science fiction and a sucker for cool AI concepts.
+- 📚 I’m a huge fan of science fiction and a sucker for cool AI concepts.
 
 ---
 
