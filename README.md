@@ -1,6 +1,7 @@
 # Hi there, I’m Saahil Mahato! 👋
 
 Welcome to my GitHub! I'm a passionate coder, a tech enthusiast, and always eager to build and break things to learn more. Here’s a little about me:
+![Profile Views](https://komarev.com/ghpvc/?username=codesaahil)
 
 - 🌐 **Website**: Work In Progress
 - 💻 **Languages & Tools**: JavaScript, Python, Node.js, React, Git, Docker, and more!
@@ -22,10 +23,9 @@ Welcome to my GitHub! I'm a passionate coder, a tech enthusiast, and always eage
 
 ### 📊 GitHub Stats
 
-![Saahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesaahil)
-![trophy](https://github-profile-trophy.vercel.app/?username=codesaahil)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=codesaahil)
-![Profile Views](https://komarev.com/ghpvc/?username=codesaahil)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=codesaahil)
+![Trophies](https://github-profile-trophy.vercel.app/?username=codesaahil)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codesaahil)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codesaahil)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesaahil)
 
