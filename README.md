@@ -23,11 +23,11 @@ Welcome to my GitHub! I'm a passionate coder, a tech enthusiast, and always eage
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codesaahil)
-![Trophies](https://github-profile-trophy.vercel.app/?username=codesaahil)
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codesaahil)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codesaahil)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesaahil)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=codesaahil&theme=dark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=codesaahil&theme=darkhub)
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codesaahil&theme=github-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codesaahil&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesaahil&theme=dark)
 
 
 ---
