@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm a passionate coder, a tech enthusiast, and always eage
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=codesaahil&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=codesaahil&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)]
 
 ---
 
