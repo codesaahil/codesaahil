@@ -23,17 +23,15 @@ Welcome to my GitHub! I'm a passionate coder, a tech enthusiast, and always eage
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codesaahil&theme=dark)
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codesaahil&theme=github-dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codesaahil&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesaahil&theme=dark)
-
+![codesaahil's Stats](https://github-readme-stats.vercel.app/api?username=codesaahil&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
+![codesaahil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codesaahil&theme=nightowl&hide_border=false)
+![codesaahil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codesaahil&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=codesaahil&theme=algolia&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=codesaahil&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -46,8 +44,8 @@ Welcome to my GitHub! I'm a passionate coder, a tech enthusiast, and always eage
 
 ### 📫 Connect with me!
 
-[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/codesaahil)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/saahil-mahato-6810ba171/)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/codesaahil)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/saahil-mahato-6810ba171/)
 
 ---
 
