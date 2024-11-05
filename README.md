@@ -44,8 +44,8 @@ Welcome to my GitHub! I'm a passionate coder, a tech enthusiast, and always eage
 
 ### 📫 Connect with me!
 
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/codesaahil)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/saahil-mahato-6810ba171/)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)(https://github.com/codesaahil)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)(https://www.linkedin.com/in/saahil-mahato-6810ba171/)
 
 ---
 
