@@ -10,12 +10,22 @@ Welcome to my GitHub! I'm a passionate coder, a tech enthusiast, and always eage
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages, Frameworks and Tools
 
+#### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)&nbsp;
+
+#### Frameworks
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Fiber](https://img.shields.io/badge/-Fiber-05122A?style=flat&logo=fiber)&nbsp;
+
+#### Tools
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
