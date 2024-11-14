@@ -17,14 +17,12 @@ Welcome to my GitHub! I'm a passionate coder, a tech enthusiast, and always eage
 ![Python](https://img.icons8.com/?size=48&id=13441&format=png&color=000000)&nbsp;
 ![Go](https://img.icons8.com/?size=48&id=44442&format=png&color=000000)&nbsp;
 ![Java](https://img.icons8.com/?size=48&id=13679&format=png&color=000000)&nbsp;
-![Rust](https://img.icons8.com/?size=48&id=meGB5Ip7aLFG&format=png&color=000000)&nbsp;
-![C++](https://img.icons8.com/?size=48&id=7655&format=png&color=000000)&nbsp;
+![Rust](https://img.icons8.com/?size=48&id=AeV543ttZrcT&format=png&color=000000)&nbsp;
 
 #### Frameworks
 ![React](https://img.icons8.com/?size=48&id=wPohyHO_qO1a&format=png&color=000000)&nbsp;
 ![Node.js](https://img.icons8.com/?size=48&id=54087&format=png&color=000000)&nbsp;
 ![Spring Boot](https://img.icons8.com/?size=48&id=90519&format=png&color=000000)&nbsp;
-![Flask](https://img.icons8.com/?size=48&id=MHcMYTljfKOr&format=png&color=000000)&nbsp;
 ![Nestjs](https://img.icons8.com/?size=48&id=9ESZMOeUioJS&format=png&color=000000)&nbsp;
 ![PyTorch](https://img.icons8.com/?size=48&id=jH4BpkMnRrU5&format=png&color=000000)&nbsp;
 
