@@ -13,25 +13,24 @@ Welcome to my GitHub! I'm a passionate coder, a tech enthusiast, and always eage
 ### 🛠️ Languages, Frameworks and Tools
 
 #### Languages
-![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png)&nbsp;
-![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)&nbsp;
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
+![JavaScript Logo](https://img.icons8.com/?size=48&id=108784&format=png&color=000000)&nbsp;
+![Python](https://img.icons8.com/?size=48&id=13441&format=png&color=000000)&nbsp;
+![Go](https://img.icons8.com/?size=48&id=44442&format=png&color=000000)&nbsp;
+![Java](https://img.icons8.com/?size=48&id=13679&format=png&color=000000)&nbsp;
+![Rust](https://img.icons8.com/?size=48&id=meGB5Ip7aLFG&format=png&color=000000)&nbsp;
+![C++](https://img.icons8.com/?size=48&id=7655&format=png&color=000000)&nbsp;
 
 #### Frameworks
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Fiber](https://img.shields.io/badge/-Fiber-05122A?style=flat&logo=fiber)&nbsp;
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Nestjs](https://img.shields.io/badge/-Nestjs-05122A?style=flat&logo=nestjs)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
+![React](https://img.icons8.com/?size=48&id=wPohyHO_qO1a&format=png&color=000000)&nbsp;
+![Node.js](https://img.icons8.com/?size=48&id=54087&format=png&color=000000)&nbsp;
+![Spring Boot](https://img.icons8.com/?size=48&id=90519&format=png&color=000000)&nbsp;
+![Flask](https://img.icons8.com/?size=48&id=MHcMYTljfKOr&format=png&color=000000)&nbsp;
+![Nestjs](https://img.icons8.com/?size=48&id=9ESZMOeUioJS&format=png&color=000000)&nbsp;
+![PyTorch](https://img.icons8.com/?size=48&id=jH4BpkMnRrU5&format=png&color=000000)&nbsp;
 
 #### Tools
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Docker](https://img.icons8.com/?size=48&id=cdYUlRaag9G9&format=png&color=000000)&nbsp;
+![Git](https://img.icons8.com/?size=48&id=20906&format=png&color=000000)&nbsp;
 
 ---
 
