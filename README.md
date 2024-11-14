@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a passionate coder, a tech enthusiast, and always eage
 ### 🛠️ Languages, Frameworks and Tools
 
 #### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
